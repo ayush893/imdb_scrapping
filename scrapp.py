@@ -170,12 +170,12 @@ def count_director():
     return hmap
  
 a = scrap_top_list()
-b = movies_by_year()
-c = movies_by_decade()
-d = movie_details()
-e = count_language()
-f = count_director()
-g = scrape_movie_details()  #need to provide the url of movie page
+# b = movies_by_year()
+# c = movies_by_decade()
+# d = movie_details()
+# e = count_language()
+# f = count_director()
+# g = scrape_movie_details()  #need to provide the url of movie page
 
 print(a)
 # print(b)
